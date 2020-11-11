@@ -1,0 +1,28 @@
+body{
+    background: orange;
+
+}
+h1{
+    color:red;
+    text-align: center;
+    font: 500;
+    font-family: 'Inconsolata', monospace;
+       
+}
+li{
+    color:black;
+    font-family: 'Inconsolata', monospace; 
+}
+.div-lista-celular{
+    padding-bottom:250px;
+}
+.div-posicionar-img img{
+    position: absolute;
+    width: 250px;
+    margin-left: 15px;
+}
+.div-posicionar{
+    position: absolute;
+    margin-left: 280px;
+    
+}
